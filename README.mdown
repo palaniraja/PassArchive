@@ -4,4 +4,10 @@ PassArchive
 
 Applescript droplet to create encrypted (password protected) archive of a dropped folder.
 
+
+[Download Link][download]
+
+[download]: https://github.com/downloads/palaniraja/PassArchive/PassArchive.zip
+
+
 ![Steps](https://github.com/palaniraja/PassArchive/raw/master/parchive-steps.png "Steps")
