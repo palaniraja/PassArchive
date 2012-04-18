@@ -4,3 +4,4 @@ PassArchive
 
 Applescript droplet to create encrypted (password protected) archive of a dropped folder.
 
+![Steps](parchive-steps.png "Steps")
