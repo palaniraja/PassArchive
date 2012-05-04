@@ -11,3 +11,6 @@ Applescript droplet to create encrypted (password protected) archive of a droppe
 
 
 ![Steps](https://github.com/palaniraja/PassArchive/raw/master/parchive-steps.png "Steps")
+
+
+I used the script http://hints.macworld.com/article.php?story=20040923120629702 as base for this one.
