@@ -1,6 +1,6 @@
 PassArchive
 -----------
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/palaniraja)
 
 Applescript droplet to create encrypted (password protected) archive of a dropped folder.
 
